@@ -1,4 +1,4 @@
-# ary - The Array to ba summed up.
+# ary - The Array to be summed up.
 #
 # Examples
 #

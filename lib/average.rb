@@ -1,6 +1,6 @@
 require '../lib/sum.rb'
 
-# ary - The Array to ba averaged.
+# ary - The Array to be averaged.
 #
 # Examples
 #
