@@ -19,3 +19,4 @@ def index_of_char(str, char)
 	end
 	return nil
 end
+

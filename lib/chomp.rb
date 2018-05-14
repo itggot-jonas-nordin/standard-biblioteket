@@ -1,4 +1,4 @@
-# str - The String to be averaged.
+# str - The String to be chomped.
 #
 # Examples
 #
